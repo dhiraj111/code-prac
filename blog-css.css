@@ -1,0 +1,29 @@
+body {
+	border: 2px solid grey;
+	width: 60%;
+	margin: auto;
+	padding: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.date {
+	color: Blue;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: 'PT Serif', serif;
+}
+
+#first-para {
+	border-left: 3px solid #517178;
+	padding: 5px;
+}
+
+#sec-para {
+	border-left: 3px solid #517178;
+	padding: 5px;
+}
